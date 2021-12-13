@@ -1,0 +1,16 @@
+[
+{
+  "modid": "statify",
+  "name": "Statify",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Syconn"],
+  "credits": "Me, Hypixel API",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
